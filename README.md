@@ -1,6 +1,5 @@
 # Hi there, I'm Ahmed Abo Fadl 👋
 
-![Header](https://user-images.githubusercontent.com/74281703/74281703-3d9c-45db-9950-f15bd0cf96d7.png)
 
 ✨ **Fullstack Developer** specializing in **Laravel, Livewire & React**
 
