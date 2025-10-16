@@ -43,6 +43,6 @@ Also passionate about **exploring new tech** and solving **challenging problems*
 ---
 
 ### 📊 GitHub Stats
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAboFadl&show_icons=true&count_private=true&hide_title=false&theme=dracula&hide=prs)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAboFadl&show_icons=true&count_private=true&hide_title=false&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAboFadl&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAboFadl&layout=compact&theme=dracula) 
