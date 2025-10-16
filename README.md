@@ -3,7 +3,9 @@
 ![Header](https://user-images.githubusercontent.com/74281703/74281703-3d9c-45db-9950-f15bd0cf96d7.png)
 
 ✨ **Fullstack Developer** specializing in **Laravel, Livewire & React**  
-💻 Building **scalable backend systems** and **modern, interactive frontends**
+💻 Building **scalable backend systems** and **modern, interactive frontends**  
+
+![Coding GIF](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
 
 ---
 
@@ -11,16 +13,23 @@
 - Develop **robust backend APIs** and services with **Laravel**  
 - Build **dynamic and reactive interfaces** with **Livewire**  
 - Craft **modern, responsive UIs** using **React**, **Tailwind CSS**, and **Bootstrap**  
-- Integrate **frontend and backend** seamlessly for **fullstack solutions**
+- Integrate **frontend and backend** seamlessly for **fullstack solutions**  
+
+---
 
 ### 🌱 Currently Learning
+![Learning GIF](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif)
 - Advanced **React patterns** and **state management**  
 - Performance optimization in **Livewire & React**  
-- Fullstack projects combining **Laravel + React**
+- Fullstack projects combining **Laravel + React**  
+
+---
 
 ### 💡 Fun Fact
 I love connecting **backend logic** with **frontend interactions** to deliver **smooth, interactive experiences**.  
 Always exploring **new technologies** and tackling **challenging problems**.  
+
+![Thinking GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
 ---
 
