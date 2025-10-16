@@ -2,24 +2,25 @@
 
 ![Header](https://user-images.githubusercontent.com/74281703/74281703-3d9c-45db-9950-f15bd0cf96d7.png)
 
-✨ **Backend Developer** with 1 year of experience in **Laravel** and **Livewire**  
-💻 Currently enhancing **Frontend** skills with **React**, **Tailwind CSS**, and **Bootstrap**
+✨ **Fullstack Developer** specializing in **Laravel, Livewire & React**  
+💻 Building **scalable backend systems** and **modern, interactive frontends**
 
 ---
 
 ### 🚀 What I Do
-- Build **dynamic web applications** using **Laravel**  
-- Create **interactive interfaces** with **Livewire**  
-- Design and develop **modern front-end UIs** using **React**, **Tailwind**, and **Bootstrap**  
+- Develop **robust backend APIs** and services with **Laravel**  
+- Build **dynamic and reactive interfaces** with **Livewire**  
+- Craft **modern, responsive UIs** using **React**, **Tailwind CSS**, and **Bootstrap**  
+- Integrate **frontend and backend** seamlessly for **fullstack solutions**
 
 ### 🌱 Currently Learning
 - Advanced **React patterns** and **state management**  
-- Performance optimization in **Livewire**  
+- Performance optimization in **Livewire & React**  
 - Fullstack projects combining **Laravel + React**
 
 ### 💡 Fun Fact
-I love connecting the **backend** with the **frontend** to deliver **smooth, interactive experiences**.  
-Also passionate about **exploring new tech** and solving **challenging problems**.  
+I love connecting **backend logic** with **frontend interactions** to deliver **smooth, interactive experiences**.  
+Always exploring **new technologies** and tackling **challenging problems**.  
 
 ---
 
@@ -45,4 +46,4 @@ Also passionate about **exploring new tech** and solving **challenging problems*
 ### 📊 GitHub Stats
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAboFadl&show_icons=true&count_private=true&hide_title=false&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAboFadl&layout=compact&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAboFadl&layout=compact&theme=dracula)
