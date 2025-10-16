@@ -3,7 +3,6 @@
 ![Header](https://user-images.githubusercontent.com/74281703/74281703-3d9c-45db-9950-f15bd0cf96d7.png)
 
 ✨ **Fullstack Developer** specializing in **Laravel, Livewire & React**
-
 💻 Building **scalable backend systems** and **modern, interactive frontends**
 
 ![Coding GIF](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
