@@ -64,3 +64,6 @@ Always exploring **new technologies** and tackling **challenging problems**.
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAboFadl\&show_icons=true\&count_private=true\&hide_title=false\&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAboFadl\&layout=compact\&theme=dracula)
+
+![GitHub Contributions](https://ghchart.rshah.org/AhmedAboFadl)
+
